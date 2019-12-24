@@ -227,3 +227,5 @@
 127.0.0.1 zhuti.xiaomi.com
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 zx.game.xiaomi.comstat.xiaomi.com
+127.0.0.1 fr.app.chat.global.xiaomi.net
+127.0.0.1 resolver.msg.global.xiaomi.net
